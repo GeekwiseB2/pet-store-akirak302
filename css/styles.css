@@ -35,7 +35,7 @@ font-family: 'Satisfy', cursive;
   text-align: center;
 }
 
-.services-link{
+.link{
   text-align: center;
 }
 .row{
@@ -50,6 +50,9 @@ font-family: 'Satisfy', cursive;
   background-color: black;
 }
 
+.fa-ul{
+  color: #BFC0C1;
+}
 /**CONTACT PAGE**/
 
 footer{
